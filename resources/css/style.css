@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: url(/Users/Carlos/Desktop/broadway/resources/img/the-flatiron-building.png);
+  background-image: url(../../resources/img/the-flatiron-building.png);
   text-align: center;
   color: white;
 }
